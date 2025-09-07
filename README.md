@@ -1,3 +1,4 @@
+![logo](https://github.com/tanma123-dotcom/tanma123-dotcom/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_20250907_170600_0000.png)
 <h1 align="center">Hi 👋, I'm Tanmay Sharma</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
